@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|c:\\users\\admin\\desktop\\ltm-nt016\\doan\\server\\server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|solutionrelative:server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|c:\\users\\admin\\desktop\\ltm-nt016\\doan\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|c:\\users\\admin\\desktop\\ltm-nt016\\doan\\server\\server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B7BA4F-AE73-42A6-85B6-1B1195346BF0}|SERVER\\SERVER.csproj|solutionrelative:server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\GameRoom.cs",
+              "RelativeDocumentMoniker": "SERVER\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\GameRoom.cs",
+              "RelativeToolTip": "SERVER\\GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:04:05.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\Program.cs",
+              "RelativeDocumentMoniker": "SERVER\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\Program.cs",
+              "RelativeToolTip": "SERVER\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:08:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\TCPServer.cs",
+              "RelativeDocumentMoniker": "SERVER\\TCPServer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTM-NT016\\DoAn\\SERVER\\SERVER\\TCPServer.cs",
+              "RelativeToolTip": "SERVER\\TCPServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:26.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

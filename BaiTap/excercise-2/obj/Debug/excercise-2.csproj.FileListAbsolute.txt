@@ -1,0 +1,109 @@
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\excercise-2.exe.config
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\excercise-2.exe
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\excercise-2.pdb
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise_2.login.resources
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise_2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise_2.signup.resources
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.exe
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.pdb
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise_2.infor.resources
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercis.F1D5CEF5.Up2Date
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\excercise-2.exe.manifest
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\bin\Debug\excercise-2.application
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.exe.manifest
+C:\Users\ADMIN\source\repos\excercise-2\excercise-2\obj\Debug\excercise-2.application
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe.config
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe.manifest
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.application
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.pdb
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\System.Data.SqlClient.dll
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\System.Data.SqlClient.xml
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.AssemblyReference.cache
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.infor.resources
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.login.resources
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.Properties.Resources.resources
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.signup.resources
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.GenerateResource.cache
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.exe.manifest
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.application
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercis.F1D5CEF5.Up2Date
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.exe
+D:\Dai Hoc\LTMCB\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.pdb
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe.config
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe.manifest
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.application
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.exe
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\excercise-2.pdb
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\System.Data.SqlClient.dll
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\bin\Debug\System.Data.SqlClient.xml
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.AssemblyReference.cache
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.infor.resources
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.login.resources
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.Properties.Resources.resources
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise_2.signup.resources
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.GenerateResource.cache
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.exe.manifest
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.application
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercis.F1D5CEF5.Up2Date
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.exe
+D:\Dai Hoc\LTMCB\course\Chess-game-homework\Chess-game-homework\excercise-2\obj\Debug\excercise-2.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\excercise-2.exe.config
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\excercise-2.exe.manifest
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\excercise-2.application
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\excercise-2.exe
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\excercise-2.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.FindBook.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.infor.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.login.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.Properties.Resources.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.signup.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.exe.manifest
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.application
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercis.F1D5CEF5.Up2Date
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.exe
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise-2.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\obj\Debug\excercise_2.BookInfor.resources
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Core.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.CodeDom.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Google.Apis.Core.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\source\LTM\BaiTap\excercise-2\bin\Debug\System.ValueTuple.xml
